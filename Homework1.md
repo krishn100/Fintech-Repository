@@ -1,5 +1,4 @@
-#Case Study Proposal
-#Brex 
+# TITLE
 
 ## Overview and Origin
 
