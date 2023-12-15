@@ -2,16 +2,8 @@
 # Brex 
 
 ## Overview and Origin
-
-* Name of company
-
-* When was the company incorporated?
-
-* Who are the founders of the company?
-
-* How did the idea for the company (or project) come about?
-
-* How is the company funded? How much funding have they received?
+Brex is a financial technology company focused on financial services for business. The company was founded in 2017 by Henrique Dubugras and Pedro Franceschi, two Brazilian entreprenuers. They had initially founded a payments processing company called Pagar.me in Brazil but encountered many difficulties securing a corporate credit card in the United States, despite having ample capital in their business account. The difficulties they faced, helped them identify a gap in the market, specfically for startups and tech companies. 
+Brex has currently raised 1.5 Billion dollars over 12 rounds of funding, attracting investments for venture capital firms and other institutional investors.  
 
 
 ## Business Activities:
