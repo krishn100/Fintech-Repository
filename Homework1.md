@@ -38,4 +38,4 @@ My reccomendation for Brex would be to create a business planning software/platf
 * https://www.onescreen.ai/blog/how-brex-used-billboards-to-unlock-the-ultimate-account-based-marketing-campaign-and-how-you-can-too
 * https://research.contrary.com/reports/brex
 * https://sacra.com/c/brex/
-* https://www.crunchbase.com/organization/expensify-com/company_financials
+* https://www.crunchbase.com/organization/expensify-com/company_financialspele10
