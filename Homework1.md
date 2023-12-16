@@ -21,7 +21,7 @@ Brex operates within the domain of busness and corporate financial services in t
 
 Brex has successfully streamlined credit card access for startups ,known for offering higher credit limits compared to tradional banks. They have many innovative financial solutions such as virtual cards for online transactions, integration with accounting software, and reward programs tailored for business expense. Their innovations have contributed to competition and market differentiation in this business landscape.
 As of 2022, Brex is valued at 12.3 billion, with 1.4 billion of funding. In 2022 they had 400 million in revenue which was a 67% increase from 2021. And 2021 had a 99% growth from 2020. Brex made it to the 2nd spot on CNBC's Disruptor 50 in 2023. As of 2022, Brex has been used by 40% of US-based startups. These are some metrics companies in this domain would measure success by.
-Expensify, a competitors, had 169.5 million in revenue in 2022 (19% increase) for comparison. 
+Expensify, a competitor, had 169.5 million in revenue in 2022 (19% increase) for comparison. 
 
 
 ## Recommendations
